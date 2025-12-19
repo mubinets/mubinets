@@ -18,7 +18,8 @@ I focus on creating **fun, responsive gameplay mechanics** and **modular systems
 
 ### 🧩 Projects
 - [EYE OBBY](https://www.roblox.com/games/110054115114958/EYE-OBBY) — An interesting obby with special twist... Some parts are hidden until you close your EYE! 👁️
-- [RblxDataStore](https://github.com/FLOGRE-Studio/rblxdatastore) — Strictly-typed datastore wrapper for Roblox games.  
+- [RblxDataStore](https://github.com/FLOGRE-Studio/rblxdatastore) — Strictly-typed datastore wrapper for Roblox games.
+- [RblxECS](https://github.com/FLOGRE-Studio/rblx-ecs) — A compact, high performance Entity Component System implementation for Roblox-TS projects.
 - (Coming soon) **Push Legends** — Satisfying Incremental Simulator about performing push up for power, power = strength hence you build your strength toward lifting the heaviest objects.
 ---
 
